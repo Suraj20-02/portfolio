@@ -6,7 +6,7 @@ import About from "./components/about";
 import Contact from "./components/contact";
 import Footer from "./components/Footer";
 import Projects from "./components/Projects";
-import { ContactUs } from "./components/test";
+
 import SocialMedia from "./components/SocialMedia";
 
 const App = () => {
