@@ -24,7 +24,14 @@ const Projects = () => {
                   This is a ML project which helps us to detect the emotion of a
                   person by analyzing their facial expression and written text.
                 </p>
-                <a className="text-blue-500 hover:underline">View Details</a>
+                <a
+                  className="text-blue-500 hover:underline"
+                  href="https://github.com/Suraj20-02/multimodal-emotion-detection-"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  View Details
+                </a>
               </div>
             </div>
             <div className="bg-slate-200 ml-2  shadow-lg rounded overflow-hidden">
@@ -41,8 +48,37 @@ const Projects = () => {
                   this system recommend movies of the type that you searching
                   for .
                 </p>
-                <a className="text-blue-500 hover:underline">
-                  comming soon ...
+                <a
+                  className="text-blue-500 hover:underline"
+                  href="https://github.com/Suraj20-02/movie-recommendation-system"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  View Details
+                </a>
+              </div>
+            </div>
+            <div className="bg-slate-200 ml-2  shadow-lg rounded overflow-hidden">
+              <img
+                src={emotions}
+                alt="Project 1"
+                className="w-full h-48 object-cover"
+              />
+              <div className="p-6">
+                <h4 className="text-xl font-bold mb-2">
+                  Text Sentiment Analysis
+                </h4>
+                <p className="text-gray-700 mb-4">
+                  A ML project which helps us to detect the emotion of a user by
+                  analyzing their written text.
+                </p>
+                <a
+                  className="text-blue-500 hover:underline"
+                  href="https://github.com/Suraj20-02/text-sentiment-"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  View Details
                 </a>
               </div>
             </div>
