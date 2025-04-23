@@ -30,7 +30,7 @@ const Hero = () => {
             <TfiLayoutLineSolid className="text-4xl" />
           </div>
           <p className="text-lg sm:text-xl md:text-2xl mb-6">
-            Engineering student from Nepal
+            Computer Engineer from Nepal
           </p>
         </div>
       </section>

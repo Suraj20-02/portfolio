@@ -21,9 +21,10 @@ const About = () => {
             <TfiLayoutLineSolid className="text-4xl" />
           </div>
           <p className="text-gray-700 max-w-2xl mx-auto">
-            I'm a web developer with expertise in modern technologies like
-            React, Tailwind CSS, and more. I love building user-friendly
-            applications that solve real-world problems.
+            Recent Computer Engineering graduate passionate about Artificial
+            Intelligence and Machine Learning. Eager to contribute to innovative
+            projects and develop cutting-edge AI solutions. A web developer with
+            expertise in modern technologies like React, Tailwind CSS, and more.
           </p>
         </div>
       </section>
