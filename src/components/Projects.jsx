@@ -45,7 +45,7 @@ const Projects = () => {
                   Movie Recommendation System
                 </h4>
                 <p className="text-gray-700 mb-4">
-                  this system recommend movies of the type that you searching
+                  This system recommend movies of the type that you searching
                   for .
                 </p>
                 <a
