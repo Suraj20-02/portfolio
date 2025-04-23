@@ -1,6 +1,7 @@
 import React from "react";
 import emotions from "../assets/emotions.png";
 import movies from "../assets/movies.png";
+import sentiment from "../assets/sentiment.png";
 
 const Projects = () => {
   return (
@@ -60,7 +61,7 @@ const Projects = () => {
             </div>
             <div className="bg-slate-200 ml-2  shadow-lg rounded overflow-hidden">
               <img
-                src={emotions}
+                src={sentiment}
                 alt="Project 1"
                 className="w-full h-48 object-cover"
               />
