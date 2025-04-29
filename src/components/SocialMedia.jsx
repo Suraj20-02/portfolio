@@ -6,7 +6,7 @@ const SocialMedia = () => {
     {
       id: 1,
       icon: <FaLinkedin size={30} />,
-      href: "https://www.linkedin.com/in/your-linkedin-profile",
+      href: "https://www.linkedin.com/in/suraj-timilsina-554622310/",
       label: "LinkedIn",
     },
     {
