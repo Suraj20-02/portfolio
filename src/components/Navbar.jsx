@@ -43,7 +43,7 @@ const Navbar = () => {
               offset={-100}
               className="text-white text-2xl font-bold font-[Poppins] hover:text-[#1abc9c]"
             >
-              Contact
+              Contact Me
             </Link>
           </nav>
           {/* Hamburger Menu */}
