@@ -60,7 +60,9 @@ const SocialMedia = () => {
       {/* About Me Section */}
       <div className="flex flex-col items-center md:items-start">
         <p className="font-bold text-2xl mb-3">ABOUT ME</p>
-        <p className="text-center md:text-left">I love coding and traveling.</p>
+        <p className="text-center md:text-left">
+          I love coding and travelling.
+        </p>
       </div>
     </div>
   );
